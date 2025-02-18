@@ -1,2 +1,3 @@
-{"openai.api_key" : ""
+{"OPENAI_APIKEY" : "",
+"HUGGING_FACE_TOKEN" : ""
 }
